@@ -1,0 +1,142 @@
+{
+  "1. Gangnam-gu (Каннамгу)": {
+    "district_info": {
+      "general_bag": "Белый / Бежевый",
+      "food_bag": "Желтый",
+      "pickup_days": "Вс — Пт",
+      "disposal_time": "19:00 — 23:00"
+    },
+    "plastic": "Rinse clean, remove vinyl labels/caps. Place in transparent bags.",
+    "paper": "Flatten boxes, remove tape and spiral binders from notebooks.",
+    "glass": "Rinse empty bottles. Do not break.",
+    "metal": "Flatten cans, empty contents completely.",
+    "organic": "Drain all water. Use the designated YELLOW food waste bag.",
+    "general": "Dispose in WHITE / BEIGE Gangnam-gu general trash bags."
+  },
+  "2. Mapo-gu (Мапогу)": {
+    "district_info": {
+      "general_bag": "Белый",
+      "food_bag": "Розовый",
+      "pickup_days": "Вс — Чт",
+      "disposal_time": "18:00 — 24:00"
+    },
+    "plastic": "Clean out food residues. Separate clear PET from colored plastic.",
+    "paper": "Keep dry, fold cardboard boxes neatly.",
+    "glass": "Remove caps, dispose in clear glass recycling containers.",
+    "metal": "Crush food and drink cans before disposal.",
+    "organic": "Drain moisture completely. Use PINK Mapo-gu food waste bags.",
+    "general": "Dispose in WHITE Mapo-gu standard waste bags."
+  },
+  "3. Yongsan-gu (Йонсангу)": {
+    "district_info": {
+      "general_bag": "Белый",
+      "food_bag": "Оранжевый",
+      "pickup_days": "Вс — Чт",
+      "disposal_time": "18:00 — 22:00"
+    },
+    "plastic": "Remove labels and caps. Dispose in transparent recycling bags.",
+    "paper": "Bundle paper items together. Keep dry.",
+    "glass": "Empty and rinse out containers completely.",
+    "metal": "Empty cans completely before recycling.",
+    "organic": "Use ORANGE Yongsan-gu food waste bags after draining water.",
+    "general": "Dispose in WHITE Yongsan-gu general trash bags."
+  },
+  "4. Jongno-gu (Чонногу)": {
+    "district_info": {
+      "general_bag": "Белый",
+      "food_bag": "Желтый",
+      "pickup_days": "Вс — Чт",
+      "disposal_time": "19:00 — 24:00"
+    },
+    "plastic": "Separate labels and place in transparent plastic recycling.",
+    "paper": "Remove tape, stickers, and metal bindings.",
+    "glass": "Rinse out liquids. Do not include broken light bulbs.",
+    "metal": "Crush metal cans to save space.",
+    "organic": "Use YELLOW Jongno-gu food waste bags.",
+    "general": "Use standard WHITE Jongno-gu volume-rate bags."
+  },
+  "5. Seongdong-gu (Сондонгу)": {
+    "district_info": {
+      "general_bag": "Белый",
+      "food_bag": "Голубой",
+      "pickup_days": "Вс — Чт",
+      "disposal_time": "19:00 — 23:00"
+    },
+    "plastic": "Rinse containers thoroughly.",
+    "paper": "Flatten boxes and tie dry paper with string.",
+    "glass": "Empty contents and dispose clean.",
+    "metal": "Place in metal collection containers.",
+    "organic": "Use BLUE Seongdong-gu food waste bags.",
+    "general": "Use WHITE Seongdong-gu general bags."
+  },
+  "6. Gwanak-gu (Кванакку)": {
+    "district_info": {
+      "general_bag": "Белый",
+      "food_bag": "Желтый",
+      "pickup_days": "Вс — Чт",
+      "disposal_time": "18:00 — 24:00"
+    },
+    "plastic": "Separate clear PET bottles into dedicated clear bins.",
+    "paper": "Remove non-paper elements like tape or plastic wrapping.",
+    "glass": "Rinse and dispose in designated glass bins.",
+    "metal": "Flatten clean tin and aluminum cans.",
+    "organic": "Use YELLOW Gwanak-gu food waste bags.",
+    "general": "Use WHITE Gwanak-gu standard volume bags."
+  },
+  "7. Seodaemun-gu (Содемунгу)": {
+    "district_info": {
+      "general_bag": "Белый",
+      "food_bag": "Розовый / Желтый",
+      "pickup_days": "Вс — Чт",
+      "disposal_time": "18:00 — 22:00"
+    },
+    "plastic": "Rinse thoroughly and remove all labels.",
+    "paper": "Keep dry and bundle securely.",
+    "glass": "Clean thoroughly before disposal.",
+    "metal": "Empty cans completely.",
+    "organic": "Use PINK or YELLOW Seodaemun-gu food waste bags.",
+    "general": "Use WHITE Seodaemun-gu general trash bags."
+  },
+  "8. Seongbuk-gu (Сондокку)": {
+    "district_info": {
+      "general_bag": "Белый",
+      "food_bag": "Зеленый",
+      "pickup_days": "Вс — Чт",
+      "disposal_time": "18:00 — 23:00"
+    },
+    "plastic": "Dispose in clear transparent bags after rinsing.",
+    "paper": "Flatten boxes and bind paper neatly.",
+    "glass": "Separate glass bottles cleanly.",
+    "metal": "Empty and crush metal cans.",
+    "organic": "Use GREEN Seongbuk-gu food waste bags.",
+    "general": "Use WHITE Seongbuk-gu standard trash bags."
+  },
+  "9. Dongdaemun-gu (Тондэмунгу)": {
+    "district_info": {
+      "general_bag": "Белый",
+      "food_bag": "Оранжевый",
+      "pickup_days": "Вс — Чт",
+      "disposal_time": "19:00 — 22:00"
+    },
+    "plastic": "Clean out residue, detach plastic film labels.",
+    "paper": "Fold boxes flat and remove any adhesive tape.",
+    "glass": "Rinse out liquids and dispose safely.",
+    "metal": "Puncture gas/aerosol cans before disposal.",
+    "organic": "Use ORANGE Dongdaemun-gu food waste bags.",
+    "general": "Use WHITE Dongdaemun-gu general waste bags."
+  },
+  "10. Songpa-gu (Сонпагу)": {
+    "district_info": {
+      "general_bag": "Белый",
+      "food_bag": "Желтый",
+      "pickup_days": "Вс — Чт",
+      "disposal_time": "20:00 — 24:00"
+    },
+    "plastic": "Separate clear PET bottles completely from general plastics.",
+    "paper": "Bundle paper clean and dry.",
+    "glass": "Remove caps and labels where possible.",
+    "metal": "Flatten drink cans.",
+    "organic": "Use YELLOW Songpa-gu food waste bags or RFID disposal points.",
+    "general": "Use official WHITE Songpa-gu trash bags."
+  }
+}
